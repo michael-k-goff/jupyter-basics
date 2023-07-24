@@ -1,1 +1,1 @@
-# jupyter-basics
+# Demonstration of basics of a Jupyter notebook
